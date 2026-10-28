@@ -11,7 +11,7 @@ let exportButton
 let cols;
 let rows;
 function setup() {
-  createCanvas(600, 600);
+  createCanvas(500, 700);
   rectMode(CENTER);
   createElement('label', 'zoom')
   gridSizeSlider = createSlider(10, 100, 10)
