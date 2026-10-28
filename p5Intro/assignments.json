@@ -1,0 +1,27 @@
+[
+  {
+    "class": "data vis",
+    "difficulty": 3.5,
+    "rating": 9
+  },
+  {
+    "class": "type and image",
+    "difficulty": 1,
+    "rating": 1
+  },
+  {
+    "class": "art history",
+    "difficulty": 7,
+    "rating": 7
+  },
+  {
+    "class": "des prof practices",
+    "difficulty": 7,
+    "rating": 10
+  },
+  {
+    "class": "spanish",
+    "difficulty": 8.5,
+    "rating": 10
+  }
+]
